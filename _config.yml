@@ -16,13 +16,15 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html", title: "Home now"}
-  - {file: "README.md", title: "About me"}
+  - {file: "index.html", title: "home"}
+  - {title: "projects"}
+  - {file: "README.md", title: "cv"}
+ 
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:warnxk@studserv.uni-leipzig.de"}
   - {title: Github, icon: github, url: "https://sewarnck.github.io"}
-  - {title: Twitter, icon: twitter, url: "https://twitter.com/warncks"}
+  - {title: Twitter, icon: <i class="fa-brands fa-twitter"></i>, url: "https://twitter.com/warncks"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
