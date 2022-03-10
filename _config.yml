@@ -22,7 +22,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
  
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:warnxk@studserv.uni-leipzig.de"}
+  - {title: Mail, icon: envelope, url: "mailto:warnck@studserv.uni-leipzig.de"}
   - {title: Github, icon: github, url: "https://sewarnck.github.io"}
   - {title: Twitter, icon: <i class="fa-brands fa-twitter"></i>, url: "https://twitter.com/warncks"}
 
